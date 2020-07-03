@@ -3,11 +3,10 @@
 
 Maskash匿名计算链采用业界成熟可控的区块链底层平台、先进的零知识证明技术与安全可靠的透明监管技术，集身份匿名、交易隐私、收益隐私、透明监管能力于一体，形成同时满足用户、发行方、监管者差异化需求的匿名计算平台，完美契合融资、私募、众筹、保险等金融业务的应用需求。
 
-![Image text](https://github.com/xdlianrong/Maskash/blob/master/Images/Maskash.jpg)
-
 <div  align="center">
-<img src="https://github.com/xdlianrong/Maskash/blob/master/Images/Maskash.jpg" width = 500 height = 300 />
+<img src="https://github.com/xdlianrong/Maskash/blob/master/Images/Maskash.jpg" width = 80% height = 80% />
 </div>
+
 
 ## 产品功能
 
