@@ -5,6 +5,10 @@ Maskash匿名计算链采用业界成熟可控的区块链底层平台、先进�
 
 ![Image text](https://github.com/xdlianrong/Maskash/blob/master/Images/Maskash.jpg)
 
+<div  align="center">
+<img src="https://github.com/xdlianrong/Maskash/blob/master/Images/Maskash.jpg" width = 500 height = 300 />
+</div>
+
 ## 产品功能
 
 **数据隐私可计算**：采用布尔共享、混淆电路、同态密码、算数共享等机制，在参与方数据隐私保护下，对数据执行联合计算；
